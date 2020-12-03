@@ -1,13 +1,10 @@
 {
   "name": "strong-params",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Rails-style strong parameters for javascript projects. (e.g. Express, Koa)",
   "main": "index.js",
   "scripts": {
     "test": "standard && mocha --recursive ./spec"
-  },
-  "engines": {
-    "node": ">= 8.0.0 < 13.0.0"
   },
   "repository": {
     "type": "git",
